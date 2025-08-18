@@ -22,10 +22,27 @@ Each component, plugin and the general workflow is well documented. Check out th
 
 
 ## CDN LINKS
-change the /24f2../ with the username of this github if not matched
+### change the /24f2../ with the username of this github if not matched
+---
+1. Base url
 
 ```
+    <base href="https://cdn.jsdelivr.net/gh/24f2003468/neumophism@main/">
+```
+2. Cdn link
+```
 https://cdn.jsdelivr.net/gh/24f2003468/neumophism@main/style.css
+```
+3.font awesome
+
+```
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+```
+
+### use images like this 
+
+```
+assets/img/brand/light.svg
 ```
 
 ## File Structure
